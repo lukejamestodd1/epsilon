@@ -9,5 +9,5 @@ SETUP
 6. npm run dev
 
 7. Login Details:
-username - cakePudding
-passowrd - cakePudding
+username - user@email.com
+passowrd - password

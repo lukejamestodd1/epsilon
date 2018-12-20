@@ -1,5 +1,5 @@
 <template>  
-    <div>    
+    <div class="mt1">    
         <h2>Login</h2>    
         <form v-on:submit="login">    
             <input type="text" name="email" /><br>    

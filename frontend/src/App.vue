@@ -20,4 +20,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+.mt1{
+    margin-top: 1em;
+}
+.pb1{
+    padding-bottom: 1em;
+}
+
 </style>
