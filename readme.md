@@ -11,3 +11,5 @@ SETUP
 7. Login Details:
 username - user@email.com
 passowrd - password
+
+8. test text
